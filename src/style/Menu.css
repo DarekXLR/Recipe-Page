@@ -1,0 +1,98 @@
+.menu {
+    background-color: transparent;
+    position: sticky;
+    top: 0;
+    /* display: flex; */
+    width: 100%;
+    padding-left: 15px;
+    z-index: 1;
+}
+
+.menu ul.mainmenu {
+    width: 100%;
+    display: flex;
+}
+
+
+.menu ul.popmenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 120%;
+
+}
+
+
+.menu li.przepisy {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.menu li {
+    list-style: none;
+    flex-grow: 1;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+.menu li a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid rgb(144, 144, 143);
+    font-size: 20px;
+    color: black;
+    /* height: 50px; */
+    display: block;
+    background-color: rgb(255, 255, 255);
+
+    cursor: pointer;
+}
+
+.menu li.main a:hover {}
+
+.menu li.przepisy:hover {
+    overflow: visible;
+}
+
+.menu li.main:nth-child(1) a {
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 40px;
+}
+
+.menu li.main:nth-last-child(1) a {
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.menu li i {
+
+    padding-right: 20px;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.menu li a:active {
+    outline: none;
+
+}
+
+.menu li a.active {
+    outline: none;
+
+    background-color: rgb(100, 43, 93);
+    color: white;
+}
+
+.menu li a:focus {
+    color: white;
+    outline: none;
+    background-color: rgb(100, 43, 93);
+    ;
+
+}

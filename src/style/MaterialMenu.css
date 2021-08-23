@@ -1,0 +1,80 @@
+section.container {
+    width: 0;
+    position: sticky;
+    top: 50px;
+    z-index: 1;
+    right: 0;
+    height: 5px;
+
+}
+
+section.list {
+    position: absolute;
+    top: 10px;
+    width: 400px;
+    right: 10px;
+    background-image: linear-gradient(rgb(236, 211, 182)0%, rgb(231, 201, 146) 100%);
+    background-size: cover;
+
+    padding: 10px 35px 10px 10px;
+
+
+}
+
+section.list h1 {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: justify;
+
+}
+
+section.list.active {
+    min-height: 180px;
+
+
+}
+
+.hidelist h2 {
+    text-align: center;
+    margin: 5px auto;
+    font-size: 14px;
+
+}
+
+.hidelist {
+    display: none;
+    transition: 0.3s;
+}
+
+.hidelist.active {
+    display: block;
+}
+
+.hidelist input,
+.hidelist select {
+    line-height: 20px;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.hidelist input[type=text] {
+    width: 150px;
+}
+
+.hidelist input[type=number] {
+    width: 80px;
+}
+
+.hidelist select {
+    font-style: italic;
+}
+
+.hidelist input[type=submit] {
+    width: 30px;
+    font-weight: bolder;
+    overflow: hidden;
+    font-size: 20px;
+
+    height: 30px;
+}
