@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/recipe-page/static/css/main.96d247e4.chunk.css",
-    "main.js": "/recipe-page/static/js/main.815179bd.chunk.js",
-    "main.js.map": "/recipe-page/static/js/main.815179bd.chunk.js.map",
-    "runtime-main.js": "/recipe-page/static/js/runtime-main.bdfe1492.js",
-    "runtime-main.js.map": "/recipe-page/static/js/runtime-main.bdfe1492.js.map",
-    "static/js/2.f003bf5c.chunk.js": "/recipe-page/static/js/2.f003bf5c.chunk.js",
-    "static/js/2.f003bf5c.chunk.js.map": "/recipe-page/static/js/2.f003bf5c.chunk.js.map",
+    "main.css": "/recipe-page/static/css/main.28127262.chunk.css",
+    "main.js": "/recipe-page/static/js/main.f62513ae.chunk.js",
+    "main.js.map": "/recipe-page/static/js/main.f62513ae.chunk.js.map",
+    "runtime-main.js": "/recipe-page/static/js/runtime-main.f5806930.js",
+    "runtime-main.js.map": "/recipe-page/static/js/runtime-main.f5806930.js.map",
+    "static/js/2.eff0c17f.chunk.js": "/recipe-page/static/js/2.eff0c17f.chunk.js",
+    "static/js/2.eff0c17f.chunk.js.map": "/recipe-page/static/js/2.eff0c17f.chunk.js.map",
     "index.html": "/recipe-page/index.html",
-    "precache-manifest.2e0ad229d8893c97dd5dbc4b4b18641f.js": "/recipe-page/precache-manifest.2e0ad229d8893c97dd5dbc4b4b18641f.js",
-    "service-worker.js": "/recipe-page/service-worker.js",
-    "static/css/main.96d247e4.chunk.css.map": "/recipe-page/static/css/main.96d247e4.chunk.css.map",
-    "static/js/2.f003bf5c.chunk.js.LICENSE.txt": "/recipe-page/static/js/2.f003bf5c.chunk.js.LICENSE.txt",
-    "static/media/salad-2756467_1280.jpg": "/recipe-page/static/media/salad-2756467_1280.1076c095.jpg",
-    "static/media/silesian-791329_1280.jpg": "/recipe-page/static/media/silesian-791329_1280.9a8a97e3.jpg",
-    "static/media/soup-1429793_1280.jpg": "/recipe-page/static/media/soup-1429793_1280.d3076466.jpg",
-    "static/media/vegetables-2977891_1280.jpg": "/recipe-page/static/media/vegetables-2977891_1280.2e158e05.jpg"
+    "static/css/main.28127262.chunk.css.map": "/recipe-page/static/css/main.28127262.chunk.css.map",
+    "static/js/2.eff0c17f.chunk.js.LICENSE.txt": "/recipe-page/static/js/2.eff0c17f.chunk.js.LICENSE.txt",
+    "static/media/salad-2756467_1280.07f6c9a2.jpg": "/recipe-page/static/media/salad-2756467_1280.07f6c9a2.jpg",
+    "static/media/silesian-791329_1280.bca05561.jpg": "/recipe-page/static/media/silesian-791329_1280.bca05561.jpg",
+    "static/media/soup-1429793_1280.2706e51f.jpg": "/recipe-page/static/media/soup-1429793_1280.2706e51f.jpg",
+    "static/media/vegetables-2977891_1280.cb9bb929.jpg": "/recipe-page/static/media/vegetables-2977891_1280.cb9bb929.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdfe1492.js",
-    "static/js/2.f003bf5c.chunk.js",
-    "static/css/main.96d247e4.chunk.css",
-    "static/js/main.815179bd.chunk.js"
+    "static/js/runtime-main.f5806930.js",
+    "static/js/2.eff0c17f.chunk.js",
+    "static/css/main.28127262.chunk.css",
+    "static/js/main.f62513ae.chunk.js"
   ]
 }
